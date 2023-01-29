@@ -1,1 +1,2 @@
 # Flight-management-system
+This software is helpful to the people, being tourism lovers, and for the people who travel a lot for their personal or professional purposes. This application helps getting air transport details, storing lots of data, performing different types of operations on the stored data, adding new data & updating it, and at that the same time time providing a user friendly interface.
